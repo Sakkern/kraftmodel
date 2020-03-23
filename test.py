@@ -1,0 +1,3 @@
+class Kraftverk()
+
+class magasin()
